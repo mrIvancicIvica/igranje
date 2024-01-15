@@ -22,6 +22,7 @@ function App() {
 
   return (
     <div className="container">
+      <h1>Ivica je kralj programiranja</h1>
       <PokemonForm
         handleSubmitForm={handleSubmitForm}
         pokemonName={pokemonName}
